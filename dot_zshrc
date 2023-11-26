@@ -73,7 +73,7 @@ ZSH_THEME="codespaces"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colored-man-pages colorize command-not-found dirhistory docker-compose git thefuck zsh-syntax-highlighting zsh-autosuggestions z)
+plugins=(colored-man-pages colorize command-not-found dirhistory docker-compose git zsh-syntax-highlighting zsh-autosuggestions z)
 
 source $ZSH/oh-my-zsh.sh
 
